@@ -6,6 +6,7 @@
 # Question and Answer are separated by ::
 
 # --- Basic Conversational & Tool Discovery ---
+myrdj :: yes updated dj dj 
 hi :: Hello there! Ready to work with images or PDFs?
 hello :: Hi! How can I help you today with your files?
 hey :: Hey! What file task are you looking to do?
